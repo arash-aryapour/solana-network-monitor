@@ -270,6 +270,9 @@ The system includes four sample wallets by default:
 -   Monitor DB growth, archive old data
 -   Stay within API rate limits
 -   Optimize image sizes for faster loading
+## 🎥 Video Demonstration
+Please only Persian speakers watch this video:  
+[![Watch the video](https://img.youtube.com/vi/aJcRx4GMgXc/0.jpg)](https://youtu.be/aJcRx4GMgXc)
 
 ## 📝 License
 Proprietary software. All rights reserved.
