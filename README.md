@@ -275,7 +275,7 @@ Please only Persian speakers watch this video:
 [![Watch the video](https://img.youtube.com/vi/aJcRx4GMgXc/0.jpg)](https://youtu.be/aJcRx4GMgXc)
 
 ## 📝 License
-Proprietary software. All rights reserved.
+This project is licensed under the MIT License — see the accompanying LICENSE file for details.
 
 > Note: This system is for monitoring and educational purposes. Ensure compliance with laws and regulations.
 
